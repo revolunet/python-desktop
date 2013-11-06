@@ -1,12 +1,17 @@
 # python desktop
 
-This module has been extracted from Python core and benefits of some improvements.
+Desktop environment detection, inspection; support for opening dialogues and resources. A selection of common and standardised desktop environments are supported.
 
-The goal of this module is simply to open documents with the default system viewer on various OS.
+This module is a fork of the [original python desktop module][0] with some improvements.
 
-The module is used in some of @revolunet SublimeText plugin, mainly to open web pages.
+The module is used in some of [@revolunet][1] SublimeText plugins, mainly to open web pages.
 
 
 ## Licence
 
-The original module license is "GNU Lesser General Public License"
+The original module license is "GNU LGLPv3"
+
+
+ [0]: https://pypi.python.org/pypi/desktop
+ [1]: https://github.com/revolunet
+
