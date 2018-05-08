@@ -1,4 +1,4 @@
-# python desktop
+# python desktop [![deprecated](http://badges.github.io/stability-badges/dist/deprecated.svg)](http://github.com/badges/stability-badges)
 
 Desktop environment detection, inspection; support for opening dialogues and resources. A selection of common and standardised desktop environments are supported.
 
